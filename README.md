@@ -8,9 +8,9 @@ Right now
 - Building pieces of an OS kernel in Rust
 
 Things I've built
-- whimper — ticketing site for a student theater production, used by real audiences
-- NYPC strategy bot — a game-playing bot for the Naver Youth Programming Challenge
-- OGC (Opti-Grand Challenge) 2025 
+- [whimper](https://projectwooyeon.github.io/whimper): ticketing site for a student theater production, used by real audiences
+- NYPC strategy bot: a game-playing bot for the Naver Youth Programming Challenge
+- OGC 2025 solver: loading cars onto export ships; placed 14th of 343 teams in the Optimization Grand Challenge
 
 Away from the keyboard, I act and run workshops in a campus theater club, and teach kids the basics of programming. I try to keep a good balance between health, work, and being happy. Some weeks it works.
 
